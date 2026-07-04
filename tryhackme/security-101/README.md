@@ -10,14 +10,10 @@ The goal of these notes is to organize what I learn from each room in a professi
 
 I am currently working through the Security 101 path on TryHackMe.
 
-## Topics Covered
+## Notes Index
 
-- Introduction to cybersecurity
-- Networking fundamentals
-- Offensive security basics
-- Defensive security basics
-- SOC and Blue Team concepts
-- Basic tools and practical labs
+- [Security 101 Summary](./security-101-summary.md)
+- [What is Networking?](./what-is-networking.md)
 
 ## Notes Policy
 

@@ -1,46 +1,48 @@
- # Cybersecurity Labs
+# Cybersecurity Labs
 
-This repository documents my cybersecurity learning progress, lab notes, tools, and hands-on practice.
+This repo is my personal study notebook for cybersecurity, Linux, and TryHackMe.
 
-## Purpose
+I use it to keep track of what I learn, the commands I practice, and the notes I may need to review later.
 
-The goal of this repository is to organize my cybersecurity learning in a clear and professional way while building a practical portfolio.
-
-## Current Learning Areas
+## What I’m Studying
 
 - Linux fundamentals
 - Networking basics
 - Security fundamentals
-- SOC and Blue Team concepts
-- Penetration testing basics
-- TryHackMe Security 101 path
+- TryHackMe Security 101
+- Basic SOC and Blue Team concepts
+- Basic penetration testing concepts
 
-## Tools Used
+## Current Folders
 
-- Linux
-- Nmap
-- Wireshark
-- TryHackMe
-- Git & GitHub
+- `linux/` — Linux commands, permissions, SSH, and important directories.
+- `tryhackme/security-101/` — Notes from the TryHackMe Security 101 path.
 
-## Repository Structure
+## Folder Structure
 
+```text
 cybersecurity-labs/
-│
-├── tryhackme/
-│   └── security-101/
-│
+├── README.md
 ├── linux/
-│
-├── networking/
-│
-├── tools/
-│
-└── notes/
+│   └── linux-fundamentals.md
+└── tryhackme/
+    └── security-101/
+        ├── README.md
+        ├── security-101-summary.md
+        └── what-is-networking.md
+```
 
-## Important Note
+## How I Organize My Notes
 
-This repository is for learning documentation only.  
+- Linux notes go inside `linux/linux-fundamentals.md`.
+- TryHackMe Security 101 notes go inside `tryhackme/security-101/`.
+- I only create a new file when the topic becomes too large for one file.
+- I keep the notes simple so I can update them easily later.
+
+## Notes Policy
+
+These notes are for my own learning and revision.
+
 I do not publish flags, direct answers, or restricted lab solutions.
 
 ## Profile Links
